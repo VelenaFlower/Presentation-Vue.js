@@ -1,0 +1,61 @@
+.user-info-photo {
+    width: 240px;
+    border-radius: 50%;
+}
+
+.vue-logo-svg {
+    animation: opacity 1s 1s linear;
+}
+
+.vue-logo .vue-logo-title {
+    color: #42b883;
+    animation: opacity 1s 1.3s linear;
+}
+
+.user-info-position {
+    font-size: .7em;
+    font-weight: 200;
+}
+
+.user-info-social {
+    margin-top: 50px;
+    font-size: .4em;
+}
+
+.user-info-social a {
+    padding: 0 10px;
+}
+
+section.has-light-background h2 {
+    color: #42b883;
+}
+
+.lang-html {
+    color: #383a42;
+    background: #fafafa;
+}
+
+.ecosystem {
+    font-size: .7em;
+}
+
+.reveal .ecosystem-link {
+    color: #fff;
+}
+
+section.directives h5 {
+    color: #42b883;
+}
+
+.row {
+    column-count: 2;
+}
+
+@keyframes opacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
