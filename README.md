@@ -29,7 +29,7 @@ This flexibility makes it easy to switch to Vue because React developers, Angula
 You can choose between a template or a component class.  
 `(Slide - Ecosystem)`  
 The ecosystem Vue.js includes projects  Vue-router,  Vuex, Vue-cli, Vue-loader, Vue-server-renderer, Vue-class-component, Vue-rx, Vue-devtools.   
-`(Slide - Who is using it?)`
+`(Slide - Who is using it?)`  
 Who is using it?
 It is GitLab, NativeScript, Weex, Baidu, Xiaomi. The core of Laravel and Pagekit includes Vue.js.  
 `(Slide - How it Works?)`  
